@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RoomDB</string>
+    <string name="add_student_name">Add Student Name</string>
+    <string name="student_age">Student Age</string>
+    <string name="student_id">Student ID</string>
+    <string name="add_student">Add Student</string>
+</resources>
